@@ -41,8 +41,8 @@
 @@||launches.appsflyer.com^$important
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||nl.sitestat.com^$important
-@@||pagead2.googlesyndication.com^$client='10.254.1.34'
-@@||pubads.g.doubleclick.net^$client='10.254.1.34'
+@@||pagead2.googlesyndication.com^$important
+@@||pubads.g.doubleclick.net^$important
 @@||regionconfig.amplitude.com^$important
 @@||reports.crashlytics.com^$important
 @@||rtl.demdex.net^$important
